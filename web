@@ -28,3 +28,5 @@ https://coldinfire.github.io/2018/ABAP_Range/
 https://blog.csdn.net/suweishao/article/details/110422966
 报错：请检查计量单位和转换因子条件类型 PB00 不允许补充条件字段 KONM-KBETR 中格式出错;参见下一消息输入应按格式___,___,__~.__V
 解决：参数写错，KONM-KSTBM写成KONM-KBETR
+https://blog.csdn.net/weixin_43734184/article/details/111271955
+https://zhuanlan.zhihu.com/p/309715117

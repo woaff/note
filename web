@@ -26,3 +26,5 @@ https://www.cnblogs.com/zohoo/p/7295920.html
 https://blog.csdn.net/kangliujie/article/details/74788576
 https://coldinfire.github.io/2018/ABAP_Range/
 https://blog.csdn.net/suweishao/article/details/110422966
+报错：请检查计量单位和转换因子条件类型 PB00 不允许补充条件字段 KONM-KBETR 中格式出错;参见下一消息输入应按格式___,___,__~.__V
+解决：参数写错，KONM-KSTBM写成KONM-KBETR

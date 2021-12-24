@@ -75,3 +75,25 @@ https://blog.csdn.net/csucoder_zone/article/details/91986651
 https://blog.csdn.net/C11611/article/details/90604458
 
 https://blog.csdn.net/tsj19881202/article/details/81903482
+
+https://www.cnblogs.com/weixiaopeng/p/15421950.html
+
+https://www.int13h.nl/downloads
+
+https://www.reddit.com/r/SAP/comments/la383i/sap_gui_for_windows_770_download_linkplease/
+
+https://blog.csdn.net/ityangjia/article/details/106155675
+
+http://www.enjoyops.de/interessantes/index/zh/badis/badi_b_zh.php5
+
+https://www.jianshu.com/p/7860a89b1eaf
+
+https://blog.csdn.net/hgx0312/article/details/70217389
+
+https://blog.csdn.net/cly_apple/article/details/83582714
+
+https://blog.csdn.net/zcdatz13/article/details/71215791
+
+https://www.cnblogs.com/mingdashu/p/7723844.html
+
+https://blog.csdn.net/weixin_42124743/article/details/112734354

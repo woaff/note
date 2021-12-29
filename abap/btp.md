@@ -97,3 +97,17 @@ https://blog.csdn.net/zcdatz13/article/details/71215791
 https://www.cnblogs.com/mingdashu/p/7723844.html
 
 https://blog.csdn.net/weixin_42124743/article/details/112734354
+
+https://www.cnblogs.com/clsoho/archive/2010/03/09/1681243.html
+
+https://www.cnblogs.com/mingdashu/p/color_alv.html
+
+https://coldinfire.github.io/2018/ABAP2/
+
+https://blog.csdn.net/wangjolly/article/details/112056684
+
+https://www.sapdatasheet.org/abap/tabl/vbrp-voleh.html
+
+https://www.tcodesearch.com/sap-tables/detail?id=VBRP
+
+http://www.saptables.net/?schema=ERP6EHP7&module_id=1605&table=VBRP

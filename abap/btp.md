@@ -111,3 +111,9 @@ https://www.sapdatasheet.org/abap/tabl/vbrp-voleh.html
 https://www.tcodesearch.com/sap-tables/detail?id=VBRP
 
 http://www.saptables.net/?schema=ERP6EHP7&module_id=1605&table=VBRP
+
+https://blog.csdn.net/fangkailove/article/details/90741455
+
+https://blogs.sap.com/2016/05/12/qr-code-or-2d-bar-code-in-sap/
+
+https://ikays.im/49.html

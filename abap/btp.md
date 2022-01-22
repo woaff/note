@@ -227,3 +227,13 @@ https://www.cnblogs.com/Hu-boke/articles/4867584.html
 https://blog.csdn.net/zhongguomao/article/details/9851687
 
 https://blog.csdn.net/champaignwolf/article/details/62037549
+
+https://blog.csdn.net/weixin_36182372/article/details/112653044
+
+https://blog.csdn.net/weixin_42559610/article/details/109735219
+
+https://answers.sap.com/questions/682162/installing-abap-development-tool-in-eclipse.html
+
+https://blog.csdn.net/HAND_YS/article/details/102786881
+
+https://www.cnblogs.com/tb176/p/3876482.html
